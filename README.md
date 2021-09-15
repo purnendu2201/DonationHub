@@ -1,7 +1,7 @@
 # Task: PAYMENT GATEWAY INTEGRATION
 An internship project at The Sparks Foundation
   *I have added payment gateway using Instamojo.<br>
-  *It supports payments using credit card, debit card and net banking.
+  *It supports payments using credit card, debit card and net banking.<br>
   *The payment gateway also sends an email and a receipt to receipient's email.
 
 #Website Link
