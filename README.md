@@ -5,7 +5,7 @@ An internship project at The Sparks Foundation
   <li>It supports payments using credit card, debit card and net banking.</li>
  <li>The payment gateway also sends an email and a receipt to receipient's email.</li>
 </ul>
-<h2>Website Link<h2>
- <a href = "https://purnendu2201.github.io/DonationHub/"DonationHub</a>
+<h2>Website Link</h2>
+ <a href="https://purnendu2201.github.io/DonationHub/">DonationHub</a>
   
-#Snapshots
+<h2>Snapshots</h2>
