@@ -9,3 +9,9 @@ An internship project at The Sparks Foundation
  <a href="https://purnendu2201.github.io/DonationHub/">DonationHub</a>
   
 <h2>Snapshots</h2>
+<img src="./a.png">
+<img src="./b.png">
+<img src="./c.png">
+<img src="./d.png">
+<img src="./e.png">
+<img src="./f.png">
